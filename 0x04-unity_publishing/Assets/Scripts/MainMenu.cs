@@ -6,37 +6,32 @@ using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
 {
-    public GameObject trap = GameObject.Find("Trap");
-    public GameObject goal = GameObject.Find("Goal");
     public Material trapMat;
     public Material goalMat;
-    public Material trapMatCB;
-    public Material goalMatCB;
     public Toggle colorblindMode;
 
-    void Start()
+    public void Start()
     {
         colorblindMode.isOn = false;
-    }
-    public void ResetMaterials()
-    {
-        trap.GetComponent<Renderer>().material = trapMat;
-        goal.GetComponent<Renderer>().material = goalMat;
     }
     public void PlayMaze()
     {
         SceneManager.LoadScene("maze");
-        if (colorblindMode.isOn)
-        {
-            trap.GetComponent<Renderer>().material = trapMatCB;
-            goal.GetComponent<Renderer>().material = goalMatCB;
-        }
-        else
-        {
-            ResetMaterials();
-        }
     }
 
+    private void Update()
+    {
+        if (colorblindMode.isOn)
+        {
+            trapMat.color = new Color32(255, 112, 0, 1);
+            goalMat.color = Color.blue;
+        }
+        else if (colorblindMode.isOn == false)
+        {
+            trapMat.color = Color.red;
+            goalMat.color = Color.green;
+        }
+    }
     public void QuitMaze()
     {
         Debug.Log("Quit Game");
