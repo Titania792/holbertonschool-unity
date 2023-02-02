@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5607323794689887251}
   - component: {fileID: 8332955407045880412}
+  - component: {fileID: 3419366878679263106}
   - component: {fileID: 523427518476192789}
   - component: {fileID: 9223080818822385900}
   - component: {fileID: 1462502661580273005}
@@ -52,6 +53,20 @@ MonoBehaviour:
   rotationSpeed: 720
   jumpForce: 5
   jumpGracePeriod: 0.2
+--- !u!114 &3419366878679263106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2119046157507941934}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7b8635522b0d6041a5f9e7bb88ffdd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeRunning: 0
+  timer: {fileID: 0}
 --- !u!143 &523427518476192789
 CharacterController:
   m_ObjectHideFlags: 0
