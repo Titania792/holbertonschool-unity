@@ -23455,6 +23455,22 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5061370966542016313, guid: 792ee49ea36b7064898fb2e07efa8a4c, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 876711e0243112f45bdf68825e438c01, type: 3}
+    - target: {fileID: 5061370966542016313, guid: 792ee49ea36b7064898fb2e07efa8a4c, type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061370966542016313, guid: 792ee49ea36b7064898fb2e07efa8a4c, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5061370966542016313, guid: 792ee49ea36b7064898fb2e07efa8a4c, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 48
+      objectReference: {fileID: 0}
     - target: {fileID: 8578089937085562629, guid: 792ee49ea36b7064898fb2e07efa8a4c, type: 3}
       propertyPath: m_Pivot.x
       value: 0

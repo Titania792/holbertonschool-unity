@@ -312,3 +312,97 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 396.628447 seconds.
+  path: Assets/Fonts
+  artifactKey: Guid(83e996b0679e69b498affcddc7a25d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts using Guid(83e996b0679e69b498affcddc7a25d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9779dc239e38e6a30de4fa9a30f6058') in 0.817225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.720596 seconds.
+  path: Assets/Fonts/Changa
+  artifactKey: Guid(c7747168e8bada046a78790c7af7a39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Changa using Guid(c7747168e8bada046a78790c7af7a39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd524ba2e7f2905c622ce314daa7458ed') in 0.022775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.183051 seconds.
+  path: Assets/Textures/UI
+  artifactKey: Guid(645646031de43d1449123348960583db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI using Guid(645646031de43d1449123348960583db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5138b778ec287cdfc4d15cd907f88e54') in 0.013830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.051142 seconds.
+  path: Assets/Textures/UI/0x06-UI.zip
+  artifactKey: Guid(b645d70a21ee4654f80c8f7460568e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/0x06-UI.zip using Guid(b645d70a21ee4654f80c8f7460568e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831fe66cc300335807dcbe499752dc96') in 0.620738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 143.998531 seconds.
+  path: Assets/Textures/UI/bg-button.png
+  artifactKey: Guid(837602d45aebfed46b2f19f4c3c4035f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/bg-button.png using Guid(837602d45aebfed46b2f19f4c3c4035f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6bb9d1a4834fd68b8cb9e4652e57a8') in 1.087577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Textures/UI/button-level03.png
+  artifactKey: Guid(0f39e52ad11583e4abda64cdd0fd0a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/button-level03.png using Guid(0f39e52ad11583e4abda64cdd0fd0a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9eb16ac2d77b01bc16d924c3b84d837') in 0.046602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Textures/UI/slider-handle.png
+  artifactKey: Guid(952687846e5744f4da5691a055109bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/slider-handle.png using Guid(952687846e5744f4da5691a055109bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2b80fcbf08783f8e3d4afc086017807') in 0.025688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Textures/UI/bg-toggle.png
+  artifactKey: Guid(c0d6fc60ff99d29499aed9d8861470f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/bg-toggle.png using Guid(c0d6fc60ff99d29499aed9d8861470f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ffdc31ec91edc51016eb8e0e8fc1d6') in 0.022050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Textures/UI/bg-menu.png
+  artifactKey: Guid(c9a74d98ca0e54742b7f8145ba709120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/bg-menu.png using Guid(c9a74d98ca0e54742b7f8145ba709120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0cddbc1d0f2a7b2533478da93eec6df') in 0.022048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Textures/UI/check-toggle.png
+  artifactKey: Guid(01ff18d5fec96fa46987a37aadae8723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/check-toggle.png using Guid(01ff18d5fec96fa46987a37aadae8723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706edbeff08c8f33916f396a48094c89') in 0.022323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Textures/UI/button-level01.png
+  artifactKey: Guid(28dcf6b6431e2fc4fb68d4901ecaa897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/button-level01.png using Guid(28dcf6b6431e2fc4fb68d4901ecaa897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf72d89611a8f4e3e61eeda5c6456a0') in 0.024188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Textures/UI/sound-full.png
+  artifactKey: Guid(5d85910a02f083f4b8595eb2490fa7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/sound-full.png using Guid(5d85910a02f083f4b8595eb2490fa7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b535cca6a2c2a48cf9ff0259bd54beb8') in 0.019096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Textures/UI/button-level02.png
+  artifactKey: Guid(9687887da8aee0d4e9501e6953e8d002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/button-level02.png using Guid(9687887da8aee0d4e9501e6953e8d002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94f7447c5e79e490e7ad3900ad47f2f') in 0.020268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Textures/UI/sound-mute.png
+  artifactKey: Guid(c3e603b96d840814c927a6f986940741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/sound-mute.png using Guid(c3e603b96d840814c927a6f986940741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdbd41f29fee30315c27e80276044d28') in 0.022505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.838623 seconds.
+  path: Assets/Fonts/Changa/Changa-Bold.ttf
+  artifactKey: Guid(d30e5f5561e14114ea80749d2b227376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Changa/Changa-Bold.ttf using Guid(d30e5f5561e14114ea80749d2b227376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc94cd81134aab04b24fae61842e1e9b') in 0.453931 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
